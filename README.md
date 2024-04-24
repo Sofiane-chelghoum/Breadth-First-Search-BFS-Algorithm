@@ -4,13 +4,13 @@
 
 Breadth-First Search (BFS) is an algorithm used for traversing or searching tree or graph data structures. It explores all neighbor nodes at the present depth level before moving on to nodes at the next level of depth. BFS uses a queue (FIFO - First-In-First-Out) for traversal.
 
-![BFS Visualization](Bfs.png)
+![BFS Visualization](images/Bfs.png)
 
 ## Define the Problem of Romania Roadmap
 
 The problem involves finding a path from a starting city to a destination city in Romania using a given roadmap represented as a graph.
 
-![Romania Roadmap](Roadmap.png)
+![Romania Roadmap](images/Roadmap.png)
 
 ## Explain The Algorithm Steps
 
